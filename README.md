@@ -10,13 +10,19 @@ Contributing is highly encouraged. If you find a website, feel free to open a pu
 ## Spotting a website
 There are some common elements that emerge across SEO-optimised websites. These include:
 - Information copied from other websites
+
 - Sub-headings unrelated to the article's title
+
 ![Subheadings](images/unrelated_subheadings.png)
 - Unrelated images
+
 ![Unrelated images](images/unrelated_images.png)
 - Formatting errors
+
 ![Formatting errors](images/formatting_errors.png)
 - Questions without answers
+
 ![Questions without answers](images/questions_without_answers.png)
 - Poor grammar
+
 ![Poor grammar](images/poor_grammar.png)
