@@ -1,0 +1,10 @@
+# Ethan's SEO garbage blocklist
+# Source: https://github.com/EthanLeitch/seo-garbage
+
+certsimple.com
+comoapple.com
+folkstalk.com
+imofone.com
+rkimball.com
+thecpuguide.com
+quick-advisors.com
