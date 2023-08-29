@@ -11,9 +11,10 @@ Contributing is highly encouraged. If you find a website, feel free to open a pu
 There are some common elements that emerge across SEO-optimised websites. These include:
 - Information copied from other websites
 
-- Sub-headings unrelated to the article's title
+- Biased information that promotes the companies own software above all others
 
-- An article that ends with a promotion of the company's own software, claiming that it is the "best tool for the job"
+![Biased promotion](images/biased_promotion.png)
+- Sub-headings unrelated to the article's title
 
 ![Subheadings](images/unrelated_subheadings.png)
 - Unrelated images
