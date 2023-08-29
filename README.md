@@ -13,6 +13,8 @@ There are some common elements that emerge across SEO-optimised websites. These 
 
 - Sub-headings unrelated to the article's title
 
+- An article that ends with a promotion of the company's own software, claiming that it is the "best tool for the job"
+
 ![Subheadings](images/unrelated_subheadings.png)
 - Unrelated images
 
