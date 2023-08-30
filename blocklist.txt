@@ -2,6 +2,7 @@
 # Source: https://github.com/EthanLeitch/seo-garbage
 
 certsimple.com
+cleanerone.trendmicro.com
 comoapple.com
 everythingtvclub.com
 filmora.wondershare.com
@@ -15,6 +16,8 @@ quick-advisors.com
 reviewsfire.com
 rkimball.com
 systweak.com
+techdator.net
+thecontentauthority.com
 thecpuguide.com
 tvsguides.com
 wisecleaner.com
